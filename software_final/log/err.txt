@@ -1,0 +1,2 @@
+1696547084.978507,ERROR:   laser sensor error: tolerance too big
+1696547084.979504,WARNING: downlink bytearray bigger than 64 bytes
